@@ -1,0 +1,28 @@
+<svg width="95" height="48" viewBox="0 0 95 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Flag_of_the_United_Kingdom 5" clip-path="url(#clip0_877_7122)">
+<g id="Group">
+<path id="Vector" d="M0 0.000976562V48.001H96V0.000976562H0Z" fill="#012169"/>
+<g id="Vector_2">
+<path d="M0 0.000976562L96 48.001L0 0.000976562ZM96 0.000976562L0 48.001L96 0.000976562Z" fill="#221E26"/>
+<path d="M0 0.000976562L96 48.001M96 0.000976562L0 48.001" stroke="white" stroke-width="9.61929"/>
+</g>
+<g id="Vector_3">
+<path d="M0 0.000976562L96 48.001L0 0.000976562ZM96 0.000976562L0 48.001L96 0.000976562Z" fill="#221E26"/>
+<path d="M0 0.000976562L96 48.001M96 0.000976562L0 48.001" stroke="#C8102E" stroke-width="6.41286"/>
+</g>
+<g id="Vector_4">
+<path d="M48 0.000976562V48.001V0.000976562ZM0 24.001H96H0Z" fill="#221E26"/>
+<path d="M48 0.000976562V48.001M0 24.001H96" stroke="white" stroke-width="16.0322"/>
+</g>
+<g id="Vector_5">
+<path d="M48 0.000976562V48.001V0.000976562ZM0 24.001H96H0Z" fill="#221E26"/>
+<path d="M48 0.000976562V48.001M0 24.001H96" stroke="#C8102E" stroke-width="9.61929"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_877_7122">
+<rect width="96" height="48" fill="white"/>
+</clipPath>
+</defs>
+</svg>
